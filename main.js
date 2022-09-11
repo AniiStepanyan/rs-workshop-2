@@ -1,1 +1,2 @@
-alert("yes");
+const str = "Javascript"
+console.log(str);
